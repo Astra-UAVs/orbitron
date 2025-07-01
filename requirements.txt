@@ -1,0 +1,41 @@
+# Core MAVLink and Drone Communication
+mavsdk==1.4.10
+pymavlink==2.4.37
+dronekit==2.9.2
+
+# Async and Networking
+asyncio-mqtt==0.11.1
+aiofiles==23.2.0
+
+# Computer Vision and AI
+opencv-python==4.8.1.78
+numpy==1.24.3
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.196
+
+# Sensor Integration
+pyserial==3.5
+smbus2==0.4.2
+RPi.GPIO==0.7.1
+
+# Navigation and Mapping
+geopy==2.3.0
+shapely==2.0.1
+utm==0.7.0
+
+# Data Processing
+pandas==2.0.3
+scipy==1.11.1
+
+# Communication and Logging
+paho-mqtt==1.6.1
+loguru==0.7.2
+
+# Configuration Management
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Testing and Development
+pytest==7.4.2
+pytest-asyncio==0.21.1
